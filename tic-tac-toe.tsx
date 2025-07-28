@@ -236,7 +236,7 @@ export default function Game() {
         </Button>
       </div>
 
-      <h1 className="text-5xl font-extrabold text-gray-900 mb-10 drop-shadow-md dark:text-gray-50">Tic-Tac-Toe</h1>
+      <h1 className="text-5xl font-extrabold text-gray-900 mb-10 drop-shadow-md dark:text-gray-50 mt-20">Tic-Tac-Toe</h1>
 
       <div className="flex flex-col md:flex-row gap-8 w-full max-w-5xl">
         <div className="game-board flex-1 flex justify-center">
