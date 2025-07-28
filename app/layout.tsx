@@ -9,7 +9,6 @@ const inter = Inter({ subsets: ["latin"] })
 export const metadata: Metadata = {
   title: "Tic-Tac-Toe Game",
   description: "An advanced Tic-Tac-Toe game with AI and multiplayer modes.",
-    generator: 'v0.dev'
 }
 
 export default function RootLayout({
